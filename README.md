@@ -1,0 +1,264 @@
+# Hello World! (In Every Language We Can Find) 
+ 
+I am on a small and slightly ridiculous mission to write "Hello World!" in more than three hundred programming languages
+ 
+Not by copying and pasting things I do not understand. Every single one of these is written after actually looking at how that language works 
+
+## The Plan
+ 
+- Print "Hello World!" in over three hundred languages
+- Understand the basic writing style of each one before using it
+
+## Speed
+ 
+About ten languages a day
+
+## How Everything Is Arranged
+ 
+Every language gets its own folder with one small file inside :)
+
+```
+/python
+  hello.py
+/rust
+  hello.rs
+/javascript
+  hello.js
+```
+## Progress
+
+- [ ] Python
+- [ ] JavaScript
+- [ ] TypeScript
+- [ ] Java
+- [ ] C
+- [ ] C++
+- [ ] C#
+- [ ] Go
+- [ ] Rust
+- [ ] Ruby
+- [ ] PHP
+- [ ] Swift
+- [ ] Kotlin
+- [ ] Scala
+- [ ] Dart
+- [ ] Objective-C
+- [ ] Visual Basic .NET
+- [ ] Delphi / Object Pascal
+- [ ] Haskell
+- [ ] Elixir
+- [ ] Erlang
+- [ ] F#
+- [ ] Clojure
+- [ ] OCaml
+- [ ] Elm
+- [ ] ReasonML
+- [ ] PureScript
+- [ ] Scheme
+- [ ] Racket
+- [ ] Common Lisp
+- [ ] Standard ML
+- [ ] Idris
+- [ ] Agda
+- [ ] Lean
+- [ ] Miranda
+- [ ] Curry
+- [ ] Assembly (x86)
+- [ ] Assembly (ARM)
+- [ ] Zig
+- [ ] Nim
+- [ ] Crystal
+- [ ] V
+- [ ] Odin
+- [ ] D
+- [ ] Ada
+- [ ] Fortran
+- [ ] COBOL
+- [ ] Modula-2
+- [ ] Oberon
+- [ ] PL/I
+- [ ] Forth
+- [ ] Bash
+- [ ] Zsh
+- [ ] Fish
+- [ ] PowerShell
+- [ ] Perl
+- [ ] Raku (Perl 6)
+- [ ] Lua
+- [ ] Tcl
+- [ ] AWK
+- [ ] sed
+- [ ] Groovy
+- [ ] Ceylon
+- [ ] Fantom
+- [ ] IronPython
+- [ ] Boo
+- [ ] Prolog
+- [ ] Datalog
+- [ ] Mercury
+- [ ] Answer Set Programming (Clingo)
+- [ ] miniKanren
+- [ ] SQL
+- [ ] PL/SQL
+- [ ] T-SQL
+- [ ] GraphQL
+- [ ] SPARQL
+- [ ] XQuery
+- [ ] MDX
+- [ ] R
+- [ ] Julia
+- [ ] MATLAB
+- [ ] Octave
+- [ ] Mathematica (Wolfram Language)
+- [ ] Maple
+- [ ] SAS
+- [ ] Stata
+- [ ] Coq
+- [ ] ATS
+- [ ] Pony
+- [ ] Austral
+- [ ] occam
+- [ ] X10
+- [ ] Chapel
+- [ ] Verilog
+- [ ] SystemVerilog
+- [ ] VHDL
+- [ ] Chisel
+- [ ] Bluespec
+- [ ] Brainfuck
+- [ ] Whitespace
+- [ ] Malbolge
+- [ ] INTERCAL
+- [ ] Befunge
+- [ ] Piet
+- [ ] LOLCODE
+- [ ] Chef
+- [ ] Shakespeare Programming Language
+- [ ] Ook!
+- [ ] ArnoldC
+- [ ] Rockstar
+- [ ] Emojicode
+- [ ] HQ9+
+- [ ] Unlambda
+- [ ] Befunge-98
+- [ ] ///
+- [ ] Underload
+- [ ] ALGOL
+- [ ] BASIC
+- [ ] Pascal
+- [ ] Simula
+- [ ] Smalltalk
+- [ ] Lisp
+- [ ] B
+- [ ] BCPL
+- [ ] APL
+- [ ] Logo
+- [ ] Modula
+- [ ] J
+- [ ] K
+- [ ] Q
+- [ ] Dyalog APL
+- [ ] GNU APL
+- [ ] CoffeeScript
+- [ ] WebAssembly (WAT)
+- [ ] Squirrel
+- [ ] AngelScript
+- [ ] GDScript
+- [ ] Papyrus
+- [ ] YAML
+- [ ] TOML
+- [ ] Nix
+- [ ] Dhall
+- [ ] Jsonnet
+- [ ] CUE
+- [ ] HCL
+- [ ] Mojo
+- [ ] Carbon
+- [ ] Vale
+- [ ] Hylo
+- [ ] Roc
+- [ ] Gleam
+- [ ] Grain
+- [ ] Unison
+- [ ] RPG
+- [ ] JCL
+- [ ] ABAP
+- [ ] Natural
+- [ ] PowerBuilder
+- [ ] Scratch
+- [ ] Snap!
+- [ ] Processing
+- [ ] p5.js
+- [ ] Hack
+- [ ] Io
+- [ ] Self
+- [ ] Factor
+- [ ] Joy
+- [ ] Red
+- [ ] Rebol
+- [ ] Pike
+- [ ] Vala
+- [ ] Genie
+- [ ] Eiffel
+- [ ] Nemerle
+- [ ] Xtend
+- [ ] Ballerina
+- [ ] Pascal (Turbo Pascal)
+- [ ] Logtalk
+- [ ] Oz
+- [ ] Frege
+- [ ] Eta
+- [ ] Turing
+- [ ] Icon
+- [ ] SNOBOL
+- [ ] REXX
+- [ ] Tcl/Tk
+- [ ] Hy
+- [ ] Coconut
+- [ ] MoonScript
+- [ ] LiveScript
+- [ ] Wren
+- [ ] Fantom
+- [ ] Fennel
+- [ ] Janet
+- [ ] Terra
+- [ ] Futhark
+- [ ] Idris 2
+- [ ] Koka
+- [ ] Inko
+- [ ] ooc
+- [ ] Genie
+- [ ] Falcon
+- [ ] Seed7
+- [ ] ChucK
+- [ ] SuperCollider
+- [ ] Csound
+- [ ] Faust
+- [ ] Sonic Pi
+- [ ] TouchDesigner (TD)
+- [ ] OpenSCAD
+- [ ] PostScript
+- [ ] TeX
+- [ ] LaTeX
+- [ ] Metafont
+- [ ] AsciiDoc (scripting extensions)
+- [ ] Bicep
+- [ ] Puppet
+- [ ] Chef (config lang)
+- [ ] Ansible (YAML-based)
+- [ ] Starlark
+- [ ] Skylark
+- [ ] Solidity
+- [ ] Vyper
+- [ ] Move
+- [ ] Cairo
+- [ ] Clarity
+- [ ] Michelson
+- [ ] Plutus
+- [ ] Motoko
+
+
+## Why Bother With Such a Silly Project
+ 
+"Hello World!" is the smallest possible window into how a language looks and behaves doing it more than three hundred times teaches far more about patterns and syntax than one would expect from something so small :)
+  
