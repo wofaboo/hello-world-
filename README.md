@@ -13,18 +13,6 @@ Not by copying and pasting things I do not understand. Every single one of these
  
 About ten languages a day
 
-## How Everything Is Arranged
- 
-Every language gets its own folder with one small file inside :)
-
-```
-/python
-  hello.py
-/rust
-  hello.rs
-/javascript
-  hello.js
-```
 ## Progress
 
 - [ ] Python
