@@ -1,0 +1,5 @@
+module body Hello is
+    entry function main(): Unit is
+        Print("Hello, World!");
+    end;
+end module body.
